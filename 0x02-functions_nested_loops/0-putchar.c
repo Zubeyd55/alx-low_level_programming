@@ -1,15 +1,24 @@
 #include "main.h"
+
 /**
- * main - Prints Holberton
+ * main - prints a word
  *
- * Return: Always 0 (Success)
+ * Description: just prints a statement
+ * Return: Always(0) Success
  */
+
 int main(void)
 {
-	_putchar('m');
-	_putchar('a');
-	_putchar('i');
+	_putchar('H');
+	_putchar('o');
+	_putchar('l');
+	_putchar('b');
+	_putchar('e');
+	_putchar('r');
+	_putchar('t');
+	_putchar('o');
 	_putchar('n');
 	_putchar('\n');
+
 	return (0);
 }

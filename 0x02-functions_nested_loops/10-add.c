@@ -1,13 +1,15 @@
 #include "main.h"
-/**i
- * add i- adds two integers and returns the result
- * @a: an integer to add to b
- * @b: an integer to add to a
- * Return: Void.
+
+/**
+ * add - add two numbers from input
+ * @a: first aparamet
+ * @b: second parameter
+ *
+ * Description: adds two numbers
+ * Return: Always (0).
  */
 
 int add(int a, int b)
 {
 	return (a + b);
 }
-
